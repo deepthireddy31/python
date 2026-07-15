@@ -1,0 +1,11 @@
+#formatted introduction
+Name=str(input("Enter your Name:"))
+Age=int(input("Enter your Age:"))
+fav_language=str(input("Enter your favorite language:"))
+goal=str(input("Enter your goal: "))
+print(f"Hello,I am{Name}")
+print("I am",Age,"years old")
+print("My fav_language",fav_language)
+print("I am learning python")
+print("I am aspiring to become",goal)
+
