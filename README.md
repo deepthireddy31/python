@@ -1,2 +1,2 @@
 # python
-python codes practise problems,challenges
+python codes practise, problems,challenges
