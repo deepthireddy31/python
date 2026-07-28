@@ -1,0 +1,6 @@
+#created a file with name filemyfile.txt
+Name="deepthi"
+Age=19
+Address="suryapet"
+deepthi is studing btech
+#stored outside the python pratice 2 due to its not runing the path is for python project
