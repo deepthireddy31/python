@@ -1,0 +1,7 @@
+#counting vowels
+name="deepthi reddy"
+count=0
+for ch in name:
+    if ch in "aeiouAEIOU":
+        count+=1
+print("no.of vowels:",count)
