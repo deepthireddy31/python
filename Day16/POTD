@@ -1,0 +1,5 @@
+#printing top 3 numbers from a list in descendong order:
+numbers=[36,62,98,56,14,7,92,45,1,67,40]
+top_three=(sorted(numbers,reverse=True))
+print(top_three)
+print(top_three[:3])
