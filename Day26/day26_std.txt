@@ -1,0 +1,6 @@
+#creating a text file and performing the file operations
+Deepthi
+data science
+3rd year 
+python learner
+appending text

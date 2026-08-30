@@ -1,0 +1,10 @@
+#creating a file and storing the std details
+Name:
+Branch:
+Marks:
+deepthi
+AIML
+65
+Deepthi
+AIML
+65
